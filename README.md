@@ -1,4 +1,4 @@
-# Starting point
+# vivblue
 
 [![build-ublue](https://github.com/iamcult/vivblue/actions/workflows/build.yml/badge.svg)](https://github.com/iamcult/vivblue/actions/workflows/build.yml)
 
